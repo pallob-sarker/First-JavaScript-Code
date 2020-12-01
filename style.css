@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+}
+#demo {
+    color: rgb(11, 179, 179);
+}
+button {
+    padding: 10px 15px;
+    text-align: center;
+    background-color: rgb(171, 81, 255);
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    border-bottom: 2px solid rgb(233, 107, 250);
+
+}
+button:hover {
+    background-color: rgb(143, 38, 241);
+    color: white;
+}
